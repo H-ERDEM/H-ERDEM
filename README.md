@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hayrunnisa Büşra Erdem</h1>
 <h3 align="center">💻 Computer Engineering student — git -commit -m "learning in progress"</h3>
 
-- 📱 Android Mobile Applications with Kotlin [Astromoon](https://github.com/H-ERDEM/Astromoon)
+- 📈 Multimodal Deep Learning for Bitcoin Volatility Forecasting: An AI-powered framework integrating price dynamics and FinBERT-based Twitter sentiment analysis to predict hourly volatility, featuring an interactive Streamlit dashboard. [yzproje](https://github.com/H-ERDEM/yzproje)
 
 - 🌱 I’m currently learning **Jetpack Compose Firebase Authentication & Firestore Machine Learning Basics OpenCV Image Processing**
 
