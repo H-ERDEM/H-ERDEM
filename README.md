@@ -2,6 +2,14 @@
 
 <h3 align="center">💻 Computer Engineering Student | Machine Learning • Data Science • Software Development</h3>
 
+<p align="center">
+  <a href="https://h-erdem.github.io/hayrunnisa-portfolio-os/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio_OS-Visit_My_Website-007ACC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+- 🌐 **Interactive Portfolio OS:** [https://h-erdem.github.io/hayrunnisa-portfolio-os/](https://h-erdem.github.io/hayrunnisa-portfolio-os/)
+
 - 🎓 Computer Engineering student at İnönü University
 
 - 🚀 **Featured Project — Multimodal Bitcoin Volatility Prediction**
@@ -34,6 +42,7 @@
 <a href="https://linkedin.com/in/hayrunnisa-busra-erdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://kaggle.com/hayrunnisabüşraerdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
 </p> 
+
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
