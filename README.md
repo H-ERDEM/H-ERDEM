@@ -41,14 +41,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/hayrunnisa-busra-erdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://kaggle.com/hayrunnisabüşraerdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-</p> 
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=H-ERDEM&show_icons=true&theme=default" alt="github stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-ERDEM&layout=compact" alt="top languages" />
 </p>
